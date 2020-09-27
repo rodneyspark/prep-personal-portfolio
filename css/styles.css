@@ -1,0 +1,38 @@
+h1{
+    color: darkorange;
+    text-align: center;
+    font-style: oblique;
+  
+}
+h2{
+    color: goldenrod;
+}
+img{
+    height: 250px;
+    width: 400px;
+}
+ body{
+    background-image: url(../images/joshua-earle-ICE__bo2Vws-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 210vh;
+}
+.live{
+    background-color: darkcyan;
+}
+.about{
+    color: linen;
+}
+#interests{
+    color: white
+}
+#dislikes{
+    color: linen;
+}
+.contact{
+    background-color:darkcyan ;
+}
+.lang{
+    color: bisque;
+}
